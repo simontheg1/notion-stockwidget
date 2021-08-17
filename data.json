@@ -3,134 +3,40 @@
   "height": "600",
   "symbolsGroups": [
     {
-      "name": "Stocks",
-      "symbols": [
-        {
-          "name": "NASDAQ:AMZN",
-          "displayName": "AMZN - Amazon"
-        },
-        {
-          "name": "TSX:BB",
-          "displayName": "BB - Blackberry"
-        },
-        {
-          "name": "TSX:BEPC",
-          "displayName": "BEPC - Brookfield Renewable"
-        },
-        {
-          "name": "TSX:BEP.UN",
-          "displayName": "BEP.UN - Brookfield Renewable"
-        },
-        {
-          "name": "TSX:BIP.UN",
-          "displayName": "BIP.UN - Brookfield Infrastructure"
-        },
-        {
-          "name": "TSX:BMO",
-          "displayName": "BMO - Bank of Montreal"
-        },
-        {
-          "name": "NASDAQ:CLAR",
-          "displayName": "CLAR - Clarus (BD)"
-        },
-        {
-          "name": "NYSE:GME",
-          "displayName": "GME - Gamestop"
-        },
-        {
-          "name": "TSXV:GRN",
-          "displayName": "GRN.V - Greenlane Renewables"
-        },
-        {
-          "name": "TSX:GRT.UN",
-          "displayName": "GRT.UN - Granite REIT"
-        },
-        {
-          "name": "TSX:LSPD",
-          "displayName": "LSPD - Lightspeed"
-        },
-        {
-          "name": "NASDAQ:MSFT",
-          "displayName": "MSFT - Microsoft"
-        },
-        {
-          "name": "NYSE:PLTR",
-          "displayName": "PLTR - Palantir"
-        },
-        {
-          "name": "TSX:VET",
-          "displayName": "VET - Vermillion Energy"
-        }
-      ]
-    },
-    {
       "name": "ETFs",
       "symbols": [
         {
-          "name": "NASDAQ:BOTZ",
-          "displayName": "BOTZ - Robots & AI"
+          "name": "AMEX:VOO",
+          "displayName": "Vangaurd S&P 500 ETF"
         },
         {
-          "name": "AMEX:IPAY",
-          "displayName": "IPAY - Mobile/FinTech"
+          "name": "NASDAQ:QQQ",
+          "displayName": "Invesco QQQ Trust, Series 1"
         },
         {
-          "name": "NASDAQ:QCLN",
-          "displayName": "QCLN - Clean Energy Index"
+          "name": "AMEX:ARKK",
+          "displayName": "Ark Inovation ETF"
         },
         {
-          "name": "NASDAQ:SKYY",
-          "displayName": "SKYY - Cloud Computing"
+          "name": "AMEX:VWO",
+          "displayName": "Vanguard FTSE Emerging Markets ETF"
         },
-        {
-          "name": "TSX:TEC",
-          "displayName": "TEC - Technology Index"
-        },
-        {
-          "name": "TSX:XIT",
-          "displayName": "XIT - CAD Tech Index"
-        },
-        {
-          "name": "TSX:ZRE",
-          "displayName": "ZRE - REITs"
-        },
-        {
-          "name": "TSX:ZUT",
-          "displayName": "ZUT - Utilities"
-        },
-        {
-          "name": "TSX:ZWB",
-          "displayName": "ZWB - CC Banks"
-        },
-        {
-          "name": "TSX:ZWU",
-          "displayName": "ZWU - CC Utilities"
-        }
+        
       ]
     },
+    
     {
-      "name": "Watch List",
+      "name": "Crypto",
       "symbols": [
         {
-          "name": "NASDAQ:CRSR",
-          "displayName": "CRSR - Corsair"
+          "name": "FTX:BTCUSD",
+          "displayName": "Bitcoin / USD"
         },
         {
-          "name": "NYSE:DM",
-          "displayName": "DM - Desktop Metal"
+          "name": "FTX:ETHUSD",
+          "displayName": "Ethereum / USD"
         },
-        {
-          "name": "NYSE:PRLB",
-          "displayName": "PRLB - PROTO Labs"
-        },
-        {
-          "name": "AMEX:PRNT",
-          "displayName": "PRNT - 3D Printing"
-        },
-        {
-          "name": "NYSE:SQ",
-          "displayName": "SQ - Square"
-        }
+      
       ]
     }
   ],
