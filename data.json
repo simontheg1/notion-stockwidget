@@ -16,15 +16,15 @@
     },
     {
       "description": "",
+      "proName": "AMEX:VWO"
+    },
+    {
+      "description": "",
       "proName": "FTX:BTCUSD"
     },
     {
       "description": "",
       "proName": "FTX:ETHUSD"
-    },
-    {
-      "description": "",
-      "proName": "AMEX:VWO"
     }
   ],
   "showSymbolLogo": true,
