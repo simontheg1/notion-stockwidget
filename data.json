@@ -1,43 +1,30 @@
 {
   "width": "100%",
   "height": "600",
-  "symbolsGroups": [
+  "symbols": [
     {
-      "name": "ETFs",
-      "symbols": [
-        {
-          "name": "AMEX:VOO",
-          "displayName": "Vangaurd S&P 500 ETF"
-        },
-        {
-          "name": "NASDAQ:QQQ",
-          "displayName": "Invesco QQQ Trust, Series 1"
-        },
-        {
-          "name": "AMEX:ARKK",
-          "displayName": "Ark Inovation ETF"
-        },
-        {
-          "name": "AMEX:VWO",
-          "displayName": "Vanguard FTSE Emerging Markets ETF"
-        },
-        
-      ]
+      "description": "",
+      "proName": "AMEX:VOO"
     },
-    
     {
-      "name": "Crypto",
-      "symbols": [
-        {
-          "name": "FTX:BTCUSD",
-          "displayName": "Bitcoin / USD"
-        },
-        {
-          "name": "FTX:ETHUSD",
-          "displayName": "Ethereum / USD"
-        },
-      
-      ]
+      "description": "",
+      "proName": "NASDAQ:QQQ"
+    },
+    {
+      "description": "",
+      "proName": "AMEX:ARKK"
+    },
+    {
+      "description": "",
+      "proName": "FTX:BTCUSD"
+    },
+    {
+      "description": "",
+      "proName": "FTX:ETHUSD"
+    },
+    {
+      "description": "",
+      "proName": "AMEX:VWO"
     }
   ],
   "showSymbolLogo": true,
