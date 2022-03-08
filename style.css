@@ -39,7 +39,7 @@ body {
 }
 .dark {
   color: rgba(255, 255, 255, 0.9);
-  background-color: rgb(47, 52, 55) !important;
+  background-color: rgb(25, 25, 25) !important;
 }
 /* Hide offscreen */
 .dark #light {
